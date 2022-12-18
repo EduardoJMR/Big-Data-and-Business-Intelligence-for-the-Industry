@@ -3,17 +3,17 @@
 ## Postgraduate degree - Polytechnic university of madrid
 
 ### Python 
-#### Libraries
-##### matplotlib.pyplot
-##### numpy
-##### cvxopt
-##### pulp
-##### sklearn
-##### tatsmodels.tsa.seasona
+### Libraries
+#### matplotlib.pyplot
+#### numpy
+#### cvxopt
+#### pulp
+#### sklearn
+#### tatsmodels.tsa.seasona
 
 ### Module 1: Fundamentals of Business Analysis. 60 hours
 
-##### Module 2: Descriptive Analysis and Exploratory Analysis. 40 hours
+### Module 2: Descriptive Analysis and Exploratory Analysis. 40 hours
 
 ##### Topic 9: Data exploration and visualisation.
 
